@@ -52,7 +52,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [Live Demo Link](https://newtonah0.github.io/Capstone-Project2/dist/)
+- [Live Demo Link](https://effervescent-pegasus-5156d9.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,11 +106,6 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 ## 👥 Authors <a name="Ahmed"></a>
 
-
-👤 **Ahmed**
-
-- GitHub: [@githubhandle](https://github.com/newtonah0)
-
 👤 **Rida**
 
 - GitHub: [@githubhandle](https://github.com/AjroudiRida)
@@ -126,8 +121,6 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 ## 🤝 Contributing <a name="Microverse"></a>
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/newtonah0/Capstone-Project2/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
